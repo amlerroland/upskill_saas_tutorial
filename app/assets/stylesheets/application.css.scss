@@ -53,7 +53,7 @@ h1, h2, h3 {
 .navbar-default .navbar-brand, 
 .navbar-default .navbar-nav > li > a {
   color: white;
-  &:hover {
+  &:hover, &:focus {
     color: white;
     opacity: 0.75;
   }
