@@ -13,3 +13,10 @@ Stripe integration
 * Once validated rails should send user info(email, planid and card token to stripe
 * server and stripe will create a subscription and send back customer token.
 * Rails should save customer token and user information to our database.
+
+User Profiles
+* Each user should have one profiles
+* User should see a link to new profile form upon signing up
+* User should be able to create and view their user profileű
+* User profile should have a profile picture
+* User should be able to view all user profiles
